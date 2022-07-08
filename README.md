@@ -11,7 +11,7 @@ A Netflix clone that uses MongoDB for the backend and firebase for user authenti
 <h1>Video Player</h1>
   <img src="images/video-player.png" width="1000" height="1000" />
   <h1>Unavailable</h1>
-  <img src="images/Products.png" width="1000" height="1000" />
+  <img src="images/unavailable.png" width="1000" height="1000" />
   <h1>Movie List</h1>
     <img src="images/fav-list.png" width="1000" height="1000"/>
 
